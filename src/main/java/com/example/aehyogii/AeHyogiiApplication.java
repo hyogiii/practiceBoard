@@ -11,5 +11,4 @@ public class AeHyogiiApplication {
     public static void main(String[] args) {
         SpringApplication.run(AeHyogiiApplication.class, args);
     }
-
 }
